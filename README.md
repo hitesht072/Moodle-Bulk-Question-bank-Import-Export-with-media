@@ -1,6 +1,6 @@
-# Moodle-Question-bank-Excel-Import
+# Moodle-Question-bank-Excel-Import With Media files
 
-Bulk question export & import using MS excel format in moodle
+Bulk question export & import with media using MS excel format in moodle
 
 1.Exaple zip file is attached in this make relevenat changes according to your need.
 
